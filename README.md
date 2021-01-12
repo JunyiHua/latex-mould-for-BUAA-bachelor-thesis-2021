@@ -1,4 +1,5 @@
 # latex-mould-for-BUAA-bachelor-thesis-2021
+
 北航2021毕业论文latex模板
 
 关于毕业论文格式的具体要求参见“北京航空航天大学本科生毕业设计（论文）手册工科类”，这里只给出.tex内容。
